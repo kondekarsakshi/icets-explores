@@ -1,1 +1,1 @@
-# icets-explorers-infy
+# icets-explorers
